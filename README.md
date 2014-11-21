@@ -1,6 +1,6 @@
-# gof
+# gof Game of Life in Clojure
 
-The project uses [Midje](https://github.com/marick/Midje/).
+As written for the last FPDays conference mass pairing session in the first commit. The rest added later.
 
 ## How to run the tests
 
